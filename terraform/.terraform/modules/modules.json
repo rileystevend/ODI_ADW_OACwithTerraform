@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute","Source":"./modules/compute-instance","Dir":"modules/compute-instance"},{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"servicegateway","Source":"./modules/service-gateway","Dir":"modules/service-gateway"}]}
